@@ -18,6 +18,7 @@ module.exports = () => {
       // HTML Webpack Plugin to generate an HTML file
       new HtmlWebpackPlugin({
         template: './index.html',
+        filename: 'index.html',
         title: 'Text Editor'
       }),
       // InjectManifest to inject the custom service worker
