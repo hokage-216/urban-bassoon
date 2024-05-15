@@ -8,8 +8,8 @@
     "build": "webpack --mode production",
     "start": "webpack --watch"
   },
-  "author": "2U",
-  "license": "UNLICENSED",
+  "author": "",
+  "license": "MIT",
   "dependencies": {
     "code-mirror-themes": "^1.0.0",
     "idb": "^6.1.2"
@@ -26,7 +26,6 @@
     "http-server": "^0.11.1",
     "style-loader": "^3.2.1",
     "webpack": "^5.51.1",
-    "webpack-cli": "^4.8.0",
     "webpack-dev-server": "^4.0.0",
     "webpack-pwa-manifest": "^4.3.0",
     "workbox-webpack-plugin": "^6.2.4"
